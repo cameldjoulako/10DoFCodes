@@ -11,6 +11,10 @@ Log
 Day 1 of #10DoFCodes
 Today I learned a lot of techniques to make a website more attractive using jQuery.
 
+
+Day 2 of #10DoFCodes
+Late post
+Yesterday I continued to improve my skills on JS and jQuery. 
 @devoffuture @sdmg15
 #DevOfFuture #10DoFCodes #DOF #homedeve
 
