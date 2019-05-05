@@ -1,5 +1,6 @@
 #10DoFCodes Log - Round 1 - Camel Djoulako
-The log of my #10DoFCodes challenge. Started on [May, Tuesday, 2019].
+
+The log of my #10DoFCodes challenge. Started on [April 30, Tuesday, 2019].
 
 I'm publicly committing to the #10DoFCodes Challenge starting today!  
 https://github.com/cameldjoulako
